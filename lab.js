@@ -366,7 +366,7 @@ const colors = {
 
 //Code Here 
 
-
+const colorsCopy = {...colors}
 
 /*
  Now use the spread operator to combine the following 2 objects into one. 
